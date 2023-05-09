@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragmento</string>
+    <string name="chat_fragment">CHATS</string>
+    <string name="user_fragment">USERS</string>
+    <string name="settings_fragment">SETTINGS</string>
+
+    <string name="chatBtn">CHAT</string>
+    <string name="userBtn">USER</string>
+    <string name="settingBtn">SETTINGS</string>
+</resources>
